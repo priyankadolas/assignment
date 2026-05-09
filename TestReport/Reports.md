@@ -1,4 +1,5 @@
 # Automation Test Report
+Note: I intentionally did not include code to close the application or quit the browser, so that the added product remains visible in the cart.
 ## Test Information
 1. Test Suite: Assignment.jar (Runnable JAR)
 2. Test Scenario: Search for a product and add it to the cart successfully
