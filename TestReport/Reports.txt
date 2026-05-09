@@ -1,0 +1,13 @@
+D:\AdNabu>java -jar Assignment.jar
+Starting ChromeDriver 131.0.6778.139 (c35bbcbd7c2775a12a3f320e05ac0022939b1a8a-refs/branch-heads/6778@{#2771}) on port 21452
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully on port 21452.
+May 09, 2026 4:29:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+entering password
+Click Enter
+Click on Search Icon
+Search=The Collection Snowboard: Liquid
+Click on Searched Product
+Add to Cart
